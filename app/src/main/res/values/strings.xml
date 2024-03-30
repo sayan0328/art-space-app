@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="prev">Previous</string>
+    <string name="next">Next</string>
+    <string name="pic1_title">Una Taza De Café</string>
+    <string name="pic2_title">Nature\'s Mirror</string>
+    <string name="pic3_title">Starry Sky</string>
+    <string name="pic4_title">Son of the Sun</string>
+    <string name="pic5_title">Beach Triangle</string>
+    <string name="pic1_artist">Rico Lewis</string>
+    <string name="pic2_artist">Simon Riley</string>
+    <string name="pic3_artist">Tom Bristle</string>
+    <string name="pic4_artist">Karan Roy</string>
+    <string name="pic5_artist">Kyle Crane</string>
+    <string name="pic1_year">(2018)</string>
+    <string name="pic2_year">(2020)</string>
+    <string name="pic3_year">(2021)</string>
+    <string name="pic4_year">(2023)</string>
+    <string name="pic5_year">(2023)</string>
+</resources>
